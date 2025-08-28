@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
           {/* Profile Image */}
           <div className="relative group">
-            <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-card group-hover:shadow-glow transition-all duration-500 animate-float">
+            <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-card group-hover:shadow-glow transition-all duration-500">
               <img
                 src="/lovable-uploads/366b35ee-11f7-485f-aa67-ee3e69bf804a.png"
                 alt="Tirumani Vijay Paul - AI & ML Engineer"
